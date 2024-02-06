@@ -3,7 +3,7 @@ import yaml
 
 # Defining variables for csv file path and the yml output file.
 csv_file_path = 'sample_data.csv'
-yaml_file_path = 'output.yaml'
+yaml_file_path = 'output.yml'
 
 def csv_to_yaml(csv_file_path, yaml_file_path):
     # Open CSV file
