@@ -4,7 +4,8 @@
   description: "Optional. Version of the endpoint to access. For example,\_v1\_or\_\
     v2. Only specify this value to use an endpoint version other than the latest."
   example: ''
-- field: null
+
+ - field: null
   name: sysparm_breakdown
   type: string
   description: "Sys_id of a breakdown to return chart information organized as defined\
@@ -12,123 +13,149 @@
     \ separate task chart information for each priority value, such as the number\
     \ of open incidents\_"
   example: Priority  2 - High
-- field: null
+
+ - field: null
   name: sysparm_breakdown_relation
   type: string
   description: sys_id relation to break down the returned data using that relation
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
-- field: null
+
+ - field: null
   name: ''
   type: ''
   description: ''
   example: ''
+
+ 
